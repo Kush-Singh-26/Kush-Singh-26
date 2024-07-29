@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kush-Singh-26 (Kush Singh)
-- 👀 I’m interested in coding and sports.
 - 🌱 I’m currently learning DSA and ML.
 
 <!---
