@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kush-Singh-26 (Kush Singh)
-- 🌱 I’m currently learning DSA and ML.
+- 🌱 I’m currently learning DSA.
 
 <!---
 Kush-Singh-26/Kush-Singh-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
