@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kush-Singh-26 (Kush Singh)
 - 🌱 I’m currently learning DSA.
 - <a href="https://kush-singh-26.github.io/blogs/" target="_blank">Blogs</a>
+- [Portfolio](https://kush-singh-26.github.io/profile_page/)
 
 <!---
 Kush-Singh-26/Kush-Singh-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
