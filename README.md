@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Kush-Singh-26 (Kush Singh)
-
-> 🎓 Third-year CSE student | 🤖 Interested in AI, ML, DL | 💻 Practicing DSA
-
+- 🎓 Third-year CSE student | 🤖 Interested in AI, ML, DL | 💻 Practicing DSA
 - Checkout some of my work below :
-
+  
 - [Blogs](https://kush-singh-26.github.io/blogs/)
 - [Portfolio](https://kush-singh-26.github.io/)
 
