@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Kush-Singh-26 (Kush Singh)
-- 🌱 I’m currently learning DSA.
-- <a href="https://kush-singh-26.github.io/blogs/" target="_blank">Blogs</a>
+
+> 🎓 Third-year CSE student | 🤖 Interested in AI, ML, DL | 💻 Practicing DSA
+
+- Checkout some of my work below :
+
+- [Blogs](https://kush-singh-26.github.io/blogs/)
 - [Portfolio](https://kush-singh-26.github.io/)
 
 <!---
