@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Kush-Singh-26 (Kush Singh)
-- 🎓 Third-year CSE student | 🤖 Interested in AI, ML, DL | 💻 Practicing DSA
-- Checkout some of my work below :
-  - [Blogs](https://kush-singh-26.github.io/blogs/)
-  - [Portfolio](https://kush-singh-26.github.io/)
+<h1 align="center">Kush Singh</h1>
 
-<!---
-Kush-Singh-26/Kush-Singh-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <em>Deep learning. Low-level optimization. Clean code.</em>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,pytorch,linux" />
+</p>
+
+<p align="center">
+  <a href="https://kush-singh-26.github.io/blogs/">Blog</a>
+</p>
